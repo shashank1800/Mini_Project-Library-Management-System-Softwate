@@ -1,0 +1,16 @@
+C:\Users\SHASHANK BHAT\source\repos\DBMSProject\DBMSProject\bin\Debug\DBMSProject.exe.config
+C:\Users\SHASHANK BHAT\source\repos\DBMSProject\DBMSProject\bin\Debug\DBMSProject.exe
+C:\Users\SHASHANK BHAT\source\repos\DBMSProject\DBMSProject\bin\Debug\DBMSProject.pdb
+C:\Users\SHASHANK BHAT\source\repos\DBMSProject\DBMSProject\obj\Debug\DBMSProject.Form1.resources
+C:\Users\SHASHANK BHAT\source\repos\DBMSProject\DBMSProject\obj\Debug\DBMSProject.Properties.Resources.resources
+C:\Users\SHASHANK BHAT\source\repos\DBMSProject\DBMSProject\obj\Debug\DBMSProject.csproj.GenerateResource.cache
+C:\Users\SHASHANK BHAT\source\repos\DBMSProject\DBMSProject\obj\Debug\DBMSProject.csproj.CoreCompileInputs.cache
+C:\Users\SHASHANK BHAT\source\repos\DBMSProject\DBMSProject\obj\Debug\DBMSProject.exe
+C:\Users\SHASHANK BHAT\source\repos\DBMSProject\DBMSProject\obj\Debug\DBMSProject.pdb
+C:\Users\SHASHANK BHAT\source\repos\DBMSProject\DBMSProject\obj\Debug\DBMSProject.Appbody.resources
+C:\Users\SHASHANK BHAT\source\repos\DBMSPROJECT\DBMSProject\obj\Debug\DBMSProject.csprojAssemblyReference.cache
+C:\Users\SHASHANK BHAT\source\repos\DBMSPROJECT\DBMSProject\obj\Debug\DBMSProject.Books_UserControl.resources
+C:\Users\SHASHANK BHAT\source\repos\DBMSPROJECT\DBMSProject\obj\Debug\DBMSProject.Borrowers_UserControl.resources
+C:\Users\SHASHANK BHAT\source\repos\DBMSPROJECT\DBMSProject\obj\Debug\DBMSProject.About_UserControl.resources
+C:\Users\SHASHANK BHAT\source\repos\DBMSPROJECT\DBMSProject\obj\Debug\DBMSProject.AddUser_UserControl.resources
+C:\Users\SHASHANK BHAT\source\repos\DBMSPROJECT\DBMSProject\obj\Debug\DBMSProject.Transaction_UserControl.resources
